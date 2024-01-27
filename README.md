@@ -1,1 +1,1 @@
-# odin-recipes
+My first public website, created whilst stufying The Odin Project. The aim of the site is simple, to display three of my favourite recipes. 
